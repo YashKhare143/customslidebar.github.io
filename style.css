@@ -26,3 +26,13 @@ p {
     background: linear-gradient( 45deg, #06dee1, #79ff6c);
     border-radius: 5px;
 }
+
+header {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(182, 195, 255);
+}
